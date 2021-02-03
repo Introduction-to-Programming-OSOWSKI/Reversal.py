@@ -1,16 +1,27 @@
-# **Assignment Title**  
+# **Reversal**  
 
 ## **Assignment Description**  
-
+Create a function called reversal() that returns the reverse or backwords version of a given word w.
 
 ## **Examples**  
->
+>reversal("potato")  
+otatop
+
+>reversal("Sweden")  
+nedewS
 
 ## **Limitations**  
+1 function  
+1 for loop  
+0 if  
+0 else  
 
 ## **Hints**  
+w[0] returns the first letter of w  
+len(w) returns the length of w  
 
 ## **Concepts**  
+Unit q, Unit 2, for loops, lists  
 
 ---
 
